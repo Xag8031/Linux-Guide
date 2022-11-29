@@ -1,1 +1,3 @@
-# This is hopefully used to help everyone choose a linux distro.
+
+# <center>This text is centered.</center>
+
