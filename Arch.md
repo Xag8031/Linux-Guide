@@ -4,4 +4,8 @@ Arch Linux is an independently developed, Linux distribution targeted at advance
 
 ---
 
+To install Arch you can use the [installation Guide](https://wiki.archlinux.org/title/Installation_guide) or you can use the command archinstall for a more automated install
+
+
+
 [DistroWatch](https://distrowatch.com/table.php?distribution=arch)
